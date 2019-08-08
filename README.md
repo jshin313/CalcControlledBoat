@@ -1,4 +1,5 @@
-##Instructions:
+# Calculator Controlled Boat
+## Instructions:
 
 To start the boat forward, press the UP arrow. 
 To stop the boat, press the DOWN arrow. 
@@ -8,11 +9,11 @@ To turn the boat right, press the RIGHT arrow.
 
 
 
-##Pinouts:
+## Pinouts:
 
-###Transmitter:
+### Transmitter:
 
-####nrf24l01:
+#### nrf24l01:
 
 GND -> GND
 vcc -> 3.3V
