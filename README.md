@@ -4,6 +4,14 @@
 I'm able to control an RC boat using my TI-84+ Calculator!
 Originally posted in 2017 at https://www.cemetech.net/forum/viewtopic.php?t=13876
 
+## Turning Left:
+![](left.gif)
+
+## Moving Forward:
+![](forward.gif)
+
+## In a Pond:
+![](pond.gif)
 
 I used a library called ArTICL to interface between an Arduino and TI-84+ Calculator: https://github.com/KermMartian/ArTICL
 
