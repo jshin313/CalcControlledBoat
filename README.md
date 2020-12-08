@@ -51,5 +51,9 @@ SCK -> 13
 MOSI-> 11
 MISO-> 12
 
+### Schematics
+![Receiver](Schematics/receiver.png)
+![Transmitter](Schematics/transmitter.png)
+
 
 
