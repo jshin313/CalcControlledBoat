@@ -4,12 +4,6 @@
 I'm able to control an RC boat using my TI-84+ Calculator!
 Originally posted in 2017 at https://www.cemetech.net/forum/viewtopic.php?t=13876
 
-## Turning Left:
-![](left.gif)
-
-## Moving Forward:
-![](forward.gif)
-
 ## In a Pond:
 ![](pond.gif)
 
@@ -52,8 +46,8 @@ MOSI-> 11
 MISO-> 12
 
 ### Schematics
-![Receiver](Schematics/receiver.png)
-![Transmitter](Schematics/transmitter.png)
+![Receiver](Schematics/Receiver.png)
+![Transmitter](Schematics/Transmitter.png)
 
 
 
